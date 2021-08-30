@@ -2,6 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sujith Bysani</h1>
 <p align="center" width="150px"> I have just started my engineering in Vellore Institute of Technology (VIT) ,<br>I am doing my majors in Computer science along with data science.</p>
  ## Who am I?
+ 
  ```python
  class WhoAmI:
  	user = 'B.S.SUJITH'
