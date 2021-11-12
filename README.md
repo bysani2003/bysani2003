@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQFEe_aN0DbPjA/profile-displaybackgroundimage-shrink_200_800/0/1623532102389?e=1635379200&v=beta&t=DsW7g6bjQygH7VcQ_3jtg0jUIEMv_MHV8x4tWKzEH3E"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/10/9d/73/109d732d44806095d8c29e89b8dddb54.jpg"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sujith Bysani</h1>
 <p align="center" width="150px"> I have just started my engineering in Vellore Institute of Technology (VIT) ,<br>I am doing my majors in Computer science along with data science.</p>
  ## Who am I?
@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/sujith-bysani-51b55020a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bysanisujith2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/bysani2003/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="http://wa.me/8867677085"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="http://wa.me/+918867677085"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://twitter.com/bysani2003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
