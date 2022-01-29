@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/10/9d/73/109d732d44806095d8c29e89b8dddb54.jpg"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/10/9d/73/109d732d44806095d8c29e89b8dddb54.jpg" width ="800 px" height=" 400 px"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sujith Bysani</h1>
 <p align="center" width="150px"> I have just started my engineering in Vellore Institute of Technology (VIT) ,<br>I am doing my majors in Computer science along with data science.</p>
  ## Who am I?
